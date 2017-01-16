@@ -25,6 +25,7 @@ From the coursera webpage:
 ---
 ## How to run the script
 In this repository exists a file called `run_analysis.R` which contains a function `run_analysis()`.
+
 1. Download the data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 2. unzip the data and place the `run_analysis.R` script in the same directory where the extracted directory (`UCI HAR Dataset`) is.
 3. set the working directory to the directory where `run_analysis.R` is
